@@ -27,3 +27,7 @@ https://github.com/Unicamp-E-Racing/driverless-2019
 
 -Vienna University of Technology:
 https://publik.tuwien.ac.at/files/publik_262887.pdf
+
+
+----------   Clean Code Principles:  -----------
+ - https://github.com/zedr/clean-code-python
