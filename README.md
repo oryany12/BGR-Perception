@@ -29,5 +29,9 @@ https://github.com/Unicamp-E-Racing/driverless-2019
 https://publik.tuwien.ac.at/files/publik_262887.pdf
 
 
+----------   YOLOv3  -----------
+https://viso.ai/deep-learning/yolov3-overview/
+YOLOv3: Real-Time Object Detection Algorithm (What’s New?)
+
 ----------   Clean Code Principles:  -----------
  - https://github.com/zedr/clean-code-python
