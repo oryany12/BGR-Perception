@@ -30,7 +30,8 @@ https://publik.tuwien.ac.at/files/publik_262887.pdf
 
 
 ----------   YOLOv3  -----------
-https://viso.ai/deep-learning/yolov3-overview/
+
+- https://viso.ai/deep-learning/yolov3-overview/
 YOLOv3: Real-Time Object Detection Algorithm (What’s New?)
 
 ----------   Clean Code Principles:  -----------
