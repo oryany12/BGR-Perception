@@ -18,6 +18,7 @@ https://fs-driverless.github.io/Formula-Student-Driverless-Simulator/latest/
 http://driverless.mit.edu/technology
 https://github.com/cv-core/MIT-Driverless-CV-TrainingInfra
 https://tinyurl.com/d75n8xtp
+https://colab.research.google.com/github/cv-core/MIT-Driverless-CV-TrainingInfra/blob/master/CVC-YOLOv3/yolo_tutorial.ipynb#scrollTo=B2uakMuTv7nq
 
 - Formula Student Technion Driverless:
 https://github.com/hoangtnm/mark1_project
