@@ -31,9 +31,13 @@ https://publik.tuwien.ac.at/files/publik_262887.pdf
 
 
 ----------   YOLOv3  -----------
-
 - https://viso.ai/deep-learning/yolov3-overview/
 YOLOv3: Real-Time Object Detection Algorithm (What’s New?)
+
+
+----------   Find Distance  -----------
+- Find distance from camera to object/marker using Python and OpenCV
+- https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/
 
 ----------   Clean Code Principles:  -----------
  - https://github.com/zedr/clean-code-python
