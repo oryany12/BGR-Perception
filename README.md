@@ -29,6 +29,9 @@ https://github.com/Unicamp-E-Racing/driverless-2019
 -Vienna University of Technology:
 https://publik.tuwien.ac.at/files/publik_262887.pdf
 
+----------   cone-detector-tf  -----------
+- https://github.com/fediazgon/cone-detector-tf
+
 
 ----------   YOLOv3  -----------
 - https://viso.ai/deep-learning/yolov3-overview/
