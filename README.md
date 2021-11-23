@@ -1,4 +1,4 @@
-# BGR-Preception
+# BGR-Perception
 Preception Team in BGR-Racing
 
 Dataset for formula student Driverless:
