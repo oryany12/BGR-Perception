@@ -43,6 +43,8 @@ YOLOv3: Real-Time Object Detection Algorithm (What’s New?)
 - https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/
 - Estimating object location with a single camera and OpenCV
 - https://oroboto.net/2018/11/11/estimating-object-location-with-a-single-camera-and-opencv/
+- Distance measurement system for autonomous vehicles using stereo camera
+- https://www.sciencedirect.com/science/article/pii/S2590005620300011#:~:text=The%20stereo%20vision%20system%20is,the%20distance%20with%20high%20accuracy
 
 ----------   The FSOCO Dataset  -----------
  - https://github.com/fsoco/fsoco-dataset
