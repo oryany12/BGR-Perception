@@ -45,7 +45,7 @@ YOLOv3: Real-Time Object Detection Algorithm (What’s New?)
 - https://oroboto.net/2018/11/11/estimating-object-location-with-a-single-camera-and-opencv/
 - Distance measurement system for autonomous vehicles using stereo camera
 - https://www.sciencedirect.com/science/article/pii/S2590005620300011#:~:text=The%20stereo%20vision%20system%20is,the%20distance%20with%20high%20accuracy
-- YouTube Exp - https://www.youtube.com/watch?v=sW4CVI51jDY
+- YouTube Example - https://www.youtube.com/watch?v=sW4CVI51jDY
 
 ----------   The FSOCO Dataset  -----------
  - https://github.com/fsoco/fsoco-dataset
