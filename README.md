@@ -41,6 +41,8 @@ YOLOv3: Real-Time Object Detection Algorithm (What’s New?)
 ----------   Find Distance  -----------
 - Find distance from camera to object/marker using Python and OpenCV
 - https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/
+- Estimating object location with a single camera and OpenCV
+- https://oroboto.net/2018/11/11/estimating-object-location-with-a-single-camera-and-opencv/
 
 ----------   The FSOCO Dataset  -----------
  - https://github.com/fsoco/fsoco-dataset
