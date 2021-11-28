@@ -52,3 +52,6 @@ YOLOv3: Real-Time Object Detection Algorithm (What’s New?)
 
 ----------   Clean Code Principles:  -----------
  - https://github.com/zedr/clean-code-python
+
+---------- Playlist Lessons from Autonomy Workshop by Formula Students Germany (2020) in collaboration with Waymo, divided by topics ----------
+- https://www.youtube.com/playlist?list=PLtuNXpGOPQ_bI72Cjqu2fAEfQ6TwCASVK
