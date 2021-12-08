@@ -51,7 +51,7 @@ YOLOv3: Real-Time Object Detection Algorithm (What’s New?)
  - https://github.com/fsoco/fsoco-dataset
 
 ----------   ABOUT LIDAR  -----------
-- http://driverless.mit.edu/technology
+- http://driverless.mit.edu/technology - Efficient LiDAR Perception
 
 ----------   Clean Code Principles:  -----------
  - https://github.com/zedr/clean-code-python
